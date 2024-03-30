@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIT 190 Lesson 7 Collections PriorityQueue", "CIT 190 Lesson 7 Collections PriorityQueue.csproj", "{B63AC181-13F9-42E4-94C7-73251B269FD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B63AC181-13F9-42E4-94C7-73251B269FD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B63AC181-13F9-42E4-94C7-73251B269FD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B63AC181-13F9-42E4-94C7-73251B269FD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B63AC181-13F9-42E4-94C7-73251B269FD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F18A4072-1502-4BCA-ADEA-AA7721B9F852}
+	EndGlobalSection
+EndGlobal
